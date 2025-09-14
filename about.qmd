@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site. My name is Bala.
+Hi I am Shrabanti Bala Joya. I did my undergrad in Global Environmental Systems and Geographic Information Science from Simon Fraser University. I am based out of Vancouver BC. I am passionate about geospatial data visualizations, Earth systems, satellites and all the beautiful things in life like cars, food or the sky!
